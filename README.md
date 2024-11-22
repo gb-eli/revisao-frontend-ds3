@@ -1,1 +1,1 @@
-# revis-o-html-ds2
+# exercícios práticos ministrados em aulas do 2° DS (AGV)
