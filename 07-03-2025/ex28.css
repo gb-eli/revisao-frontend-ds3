@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: rgb(161, 119, 77);
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+#minha-div{
+    border: 3px solid blue;
+}
